@@ -2,7 +2,7 @@
 subtitle time fix (sec)
 basic time change #.srt
 #for subtitle time error <br>
-how to clone ==>> <a>#git clone https://github.com/Hameshinduwara/sub_time-fix/</a>
+how to clone ==>> <a>#git clone https://github.com/Hameshinduwara/sub_time-fix/</a><br>
                   <a>#python userfrendsrt.py</a>
                   
 <h3>Example Interaction</h3>(((run python file same directry with that subtitel file))) <br>
